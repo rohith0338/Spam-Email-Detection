@@ -1,2 +1,1 @@
-# email-spam-detection
-# This project is hosted at [run app](https://huggingface.co/spaces/adarsh-123/email-spam-detector)
+# This project "Spam Email Detection" is solved using the Multinomial Naive Bayes Algorithm.

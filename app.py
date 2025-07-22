@@ -87,7 +87,7 @@ def filter(sentence):
 
     return " ".join(z)
 
-  transform("Hi @ my name is! adarsh and i am scammed in . ")
+  transform("Hi @ my name is! rohith and i am scammed in . ")
 
   df["transformed_text"]=df["text"].apply(transform)
   df.head()
